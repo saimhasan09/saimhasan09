@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"> Hi there 👋, I'm Saim Hasan</h1>
+<h1 align="center"> Hi there 😎, I'm Saim Hasan</h1>
 <h3 align="center"> A passionate frontend developer</h3>
 
 
@@ -15,12 +15,15 @@
 
 
 
-
-- 📫 How to reach me: saimhasan091010@gmail.com 
+ - ♥️    I enjoy code with coffee
+ 
+ - 📫  How to reach me: saimhasan091010@gmail.com 
+ 
+ - 😄  Fun fact: That' confusing !!
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" >Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saimhasan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saimhasan09" height="30" width="40" /></a>
 <a href="https://fb.com/saimhasan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saimhasan09" height="30" width="40" /></a>
@@ -28,10 +31,23 @@
 </p>
 <br>
 
-<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
- -->
+<!-- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimhasan09)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true&locale=en" alt="saimhasan09" /></p> <br>
+
+ -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimhasan09&show_icons=true&locale=en&layout=compact" alt="saimhasan09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true&locale=en" alt="saimhasan09" /></p>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saimhasan09)
+
+
 
 
 ![Profile views](https://gpvc.arturio.dev/saimhasan09)
