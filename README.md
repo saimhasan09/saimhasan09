@@ -35,12 +35,12 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true&locale=en" alt="saimhasan09" /></p>
 
-<!-- <p align="right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true)</p> -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true)
 
 <a align="center" href="https://activity-graph.herokuapp.com/graph?username=saimhasan09" ></a>
 
 <a align="center" href="https://gpvc.arturio.dev/saimhasan09" ></a>
 
-<!-- <a align="center">![Profile views](https://gpvc.arturio.dev/saimhasan09) -->
+![Profile views](https://gpvc.arturio.dev/saimhasan09)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saimhasan09&label=Profile%20views&color=0e75b6&style=flat" alt="saimhasan09" /> </p>
+
