@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"> Hi there 👋, I'm **Saim Hasan**</h1>
+<h1 align="center"> Hi there 👋, I'm Saim Hasan</h1>
 <h3> A passionate frontend developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,14 +14,20 @@
 - 📫 How to reach me: saimhasan091010@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saimhasan09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saimhasan09/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saimhasan09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saimhasan09/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/saimhasan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saimhasan09" height="30" width="40" /></a>
+<a href="https://fb.com/saimhasan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saimhasan09" height="30" width="40" /></a>
+<a href="https://instagram.com/saimhasan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimhasan09" height="30" width="40" /></a>
+</p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
+<p >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimhasan09)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true) </p> 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saimhasan09)  
 
-![Profile views](https://gpvc.arturio.dev/saimhasan09)  
+<p align="center">![Profile views](https://gpvc.arturio.dev/saimhasan09)</p>  
