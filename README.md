@@ -22,24 +22,17 @@
 
 
 
-<!-- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimhasan09)](https://github.com/anuraghazra/github-readme-stats)
+ <p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimhasan09&show_icons=true&locale=en&layout=compact" alt="saimhasan09" /></p> 
 
-<br>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true&locale=en" alt="saimhasan09" /></p> <br>
-
- -->
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimhasan09" alt="saimhasan09" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true&locale=en" alt="saimhasan09" /></p>
+<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true&locale=en" alt="saimhasan09" /></p> 
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saimhasan09)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saimhasan09) 
+
+<p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=saimhasan09" alt="saimhasan09"/> </p>
+<hr>
 
 <h3 align="center" >Connect with me:</h3>
 <p align="center">
@@ -49,7 +42,6 @@
 </p>
 <br>
 
-
-![Profile views](https://gpvc.arturio.dev/saimhasan09)
+<p align="center"><img src="https://gpvc.arturio.dev/saimhasan09" alt="fahimahammed"/> </p>
 
 
