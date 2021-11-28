@@ -20,7 +20,6 @@
 
 <br>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saimhasan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saimhasan09" height="30" width="40" /></a>
@@ -28,15 +27,20 @@
 <a href="https://instagram.com/saimhasan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimhasan09" height="30" width="40" /></a>
 </p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
+<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimhasan09)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true)</p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true&locale=en" alt="saimhasan09" /></p>
+
+<!-- <p align="right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=saimhasan09&show_icons=true)</p> -->
 
 <a align="center" href="https://activity-graph.herokuapp.com/graph?username=saimhasan09" ></a>
 
 <a align="center" href="https://gpvc.arturio.dev/saimhasan09" ></a>
 
 <!-- <a align="center">![Profile views](https://gpvc.arturio.dev/saimhasan09) -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saimhasan09&label=Profile%20views&color=0e75b6&style=flat" alt="saimhasan09" /> </p>
