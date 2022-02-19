@@ -5,7 +5,7 @@
 <h3 align="center"> A passionate frontend developer</h3><br><br>
 
 
- - ♥️    I enjoy code with coffee
+ - ♥️    I enjoy code with coffee ☕
  
  - 📫  How to reach me: saimhasan091010@gmail.com 
  
