@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> Hi there 😎, I'm Saim Hasan</h1>
-<h3 align="center"> A passionate frontend developer</h3><br><br>
+<h3 align="center"> A passionate Programmer</h3><br><br>
 
 
  - ♥️    I enjoy code with coffee ☕
