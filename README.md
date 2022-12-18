@@ -9,7 +9,7 @@
  
  - 📫  How to reach me: saimhasan091010@gmail.com 
  
- - 🔎  All of my activities https://saim-hasan.web.app/ 
+
  
  - 📜  Find my article https://medium.com/@saimhasannahid
  
